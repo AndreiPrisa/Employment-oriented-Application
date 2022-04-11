@@ -1,0 +1,129 @@
+{
+  "companies":[
+        {
+      "name": "Google",
+      "manager": "Sundar Pichai",
+      "departments": [
+        {
+          "name": "IT",
+          "employees": ["Rolland Lyla", "Jonie Phillip", "Janine Woody"],
+                    "jobs": [ 
+            {
+              "name":"Software Developer Engineer",
+              "available_positions": 1,
+              "salary": 10000,
+              "graduation_limit": {
+                "inferior_limit": 2002,
+                "superior_limit": 2020
+              },
+              "experience_limit": {
+                "inferior_limit": 2,
+                "superior_limit": 6
+              },
+              "average_limit": {
+                "inferior_limit": 8,
+                "superior_limit": null
+              }
+            },
+            {
+              "name":"Software Developer Engineer Intern",
+              "available_positions": 1,
+              "salary": 5000,
+              "graduation_limit": {
+                "inferior_limit": null,
+                "superior_limit": null
+              },
+              "experience_limit": {
+                "inferior_limit": 0,
+                "superior_limit": 2
+              },
+              "average_limit": {
+                "inferior_limit": 9,
+                "superior_limit": null
+              }
+            }
+            ]
+        },
+        {
+          "name": "Management",
+          "employees": ["Steward Goodwin", "Bryson Reenie"],
+          "jobs": null
+        },
+        {
+          "name": "Marketing",
+          "employees":["Molly Rylie"],
+          "jobs": null
+        },
+        {
+          "name": "Finance",
+          "employees": ["Morley Denise"],
+          "jobs": null
+        }
+      ],
+      "recruiters": ["Jonie Phillip", "Janine Woody"]
+    },
+    {
+      "name": "Amazon",
+      "manager": "Jeff Bezos",
+      "departments": [
+        {
+          "name": "IT",
+          "employees": ["Harmony Lorinda", "Darrell Lillie", "Damian Bodhi"],
+          "jobs": [ 
+            {
+              "name":"Software Developer Engineer",
+              "available_positions": 1,
+              "salary": 12000,
+              "graduation_limit": {
+                "inferior_limit": 2014,
+                "superior_limit": 2020
+              },
+              "experience_limit": {
+                "inferior_limit": 1,
+                "superior_limit": null
+              },
+              "average_limit": {
+                "inferior_limit": 9,
+                "superior_limit": null
+              }
+            },
+            {
+              "name":"Software Developer Engineer Intern",
+              "available_positions": 1,
+              "salary": 6000,
+              "graduation_limit": {
+                "inferior_limit": null,
+                "superior_limit": null
+              },
+              "experience_limit": {
+                "inferior_limit": 0,
+                "superior_limit": 2
+              },
+              "average_limit": {
+                "inferior_limit": 9.35,
+                "superior_limit": null
+              }
+            }
+            ]
+        },
+        {
+          "name": "Management",
+          "employees": ["Shana Addy"],
+          "jobs": null
+        },
+        {
+          "name": "Marketing",
+          "employees":["Leyla Stacy", "Bethney Kiara"],
+          "jobs": null
+        },
+        {
+          "name": "Finance",
+          "employees": ["Jarred Egbert"],
+          "jobs": null
+        }
+      ],
+      "recruiters": ["Darrell Lillie", "Damian Bodhi"]
+    }
+      ]
+    
+}

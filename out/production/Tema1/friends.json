@@ -1,0 +1,15 @@
+{
+  "Daniel Edmund": ["Julia Matvei", "Leyla Stacy"],
+  "Julia Matvei" : ["Daniel Edmund", "Jonie Phillip", "Steward Goodwin"],
+  "Tamara Haci" : ["Leyla Stacy", "Linette Spartak"],
+  "Linette Spartak": ["Tamara Haci", "Bryson Reenie"],
+  "Shana Addy" : ["Bryson Reenie", "Darrell Lillie"],
+  "Leyla Stacy" : ["Daniel Edmund", "Tamara Haci", "Rolland Lyla", "Janine Woody"],
+  "Rolland Lyla" : ["Leyla Stacy", "Damian Bodhi"],
+  "Bryson Reenie" : ["Shana Addy", "Linette Spartak"],
+  "Steward Goodwin": ["Julia Matvei"],
+  "Jonie Phillip" : ["Julia Matvei"],
+  "Janine Woody" : ["Leyla Stacy"],
+  "Darrell Lillie" : ["Shana Addy"],
+  "Damian Bodhi" : ["Rolland Lyla"]
+}
